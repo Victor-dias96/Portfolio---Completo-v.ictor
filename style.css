@@ -25,6 +25,10 @@ body {
     display: flex;
 }
 
+.efeito-txt-topo, .efeito-img-topo, .titulo, .efeito-projeto1, .efeito-projeto2, .efeito-projeto3, .efeito-img-sobre, .efeito-txt-sobre{
+    visibility: hidden;
+}
+
 .btn-contato button {
     padding: 10px 40px;
     font-size: 15px;
